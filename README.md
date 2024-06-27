@@ -1,2 +1,3 @@
 # weather
-html/css/react.js/
+=> explore the weather with react.js
+
